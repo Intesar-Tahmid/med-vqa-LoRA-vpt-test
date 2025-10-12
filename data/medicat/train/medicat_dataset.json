@@ -1,0 +1,1502 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "আলট্রাসাউন্ড"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/db7cfb7e215a939fc0494270eda3c8b518614cae_2-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটি কোন ধরনের ইমেজিং মোডালিটি?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/a4ac2efd4d2fe28fcd60dad95f3c68ae84b838a9_1-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nইমেজিং পদ্ধতিটি কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই ।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/992a17de2974db0bf1ccc3e704e70c43f932e387_9-Figure7-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং মোডালিটি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/85d4678b292f77d95ced11eabf2b4cb4271b9d31_2-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটা কি ধরনের ইমেজিং মডালিটি (imaging modality)?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে -।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/dd98f2794d2b2a5f6c3af46212408fb930ed0f2d_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটি কি ধরনের ইমেজিং মডালিটি (imaging modality)?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি "
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/05598ee315d009e4ed496cc1ebfc1c37c2d85ff6_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটি কোন ধরনের ইমেজিং পদ্ধতি?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/4ffe37a63b947852a0ed0718b94de56f1fa5f301_2-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/df1e601625e7b7b59f49d74537f36d877008e2c4_3-Figure4-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটি কোন ধরণের ইমেজিং মোডালিটি?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/fa165c46c26a43c5b113d0791153c1b8b9883333_8-Figure12-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটি কি ধরনের ছবি?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/7efed683c7695aad97efe651e0a6b8b59766963a_6-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটি কোন ধরনের ইমেজিং পদ্ধতি?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/ef756958f80d52c27a30d3e7a3624be3bd9a289b_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোন ইমেজিং পদ্ধতি দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/02f9a8265b9ac8aa192352f4f6aa0050505b99e6_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ধরনের ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/5d0837a9e75f028fadd57f762a03e964ef444a2b_3-Figure4-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটা কি ধরনের ইমেজিং পদ্ধতি?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/7ab3d09cc06d5ba6f85257b3f96042e3f571c4f5_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটি কী ধরনের ইমেজিং মোডালিটি?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/b0911ae91296df54c84bcfe5779db1944ff8f09d_3-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/d685ec0b3d22104e266e863c75538e86eb9053d0_4-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ইমেজিং modality-এর প্রকার কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/9ad2a9636c90b7ffd8c76d46bd15a14658bf1aab_3-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/e7c3d85ad7852bbb7100471680a5b69e520ed6fd_3-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই চিত্রে কোন ইমেজিং মোডালিটি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/f74214648c4523288bb2aaf48a7fac8747458691_6-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/83585d6a2d1fa14ff21d4d2d600d53c84d9feaa2_3-Figure5-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই ম্যাগনেটিক রেজোন্যান্স ইমেজিং"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/44dbb8c1aaad23f7d4f266a1443183929e7f4aea_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটি কোন ধরনের ইমেজিং পদ্ধতি?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/5b40d162b494ed08eef8ff84f47dc9fa31df8263_3-Figure4-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/3f80deb61ac0d9a481e55c27510607f02c37d56d_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nকোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/4a72de61a90851be3c2e6b7f57469d0c0731e076_2-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটা কি ধরনের ইমেজিং মোডালিটি?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/7314c43fa11d0ab7f269450ef0b69e3b6f6748c7_2-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই চিত্রে কোন ইমেজিং মোডালিটি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/6aff8cb88b8ba67415aa7becad9ce95bc92844ab_1-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটি কি ধরনের মেডিকেল ইমেজিং?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে -।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/eaa81d18bfa4625dc714e69a9bb8c885a4d48d29_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোন ইমেজিং পদ্ধতি দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই "
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/8aefc2c038992be2118bbf0e7bbc13ea0833991e_10-Figure7-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nকোন ইমেজিং মোডালিটি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/1d10e2c71b73da254f5f2d7dd427c897a807c1df_5-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি "
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/340da311c35c5d8834b632a0bc50a22f83a34751_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/6c71d6e80600f4250b3655abecc404cbcbc494a1_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটি কি ধরনের ইমেজিং modality?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/f76ae4e5f1b63a1b405a7b771bbd37c6099ae021_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং মোডালিটি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/543a514f090eac1d52e883d9fcfb56aadd37b731_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nকি ধরনের ইমেজিং পদ্ধতি দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই "
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/a614c88f8389ac90d94cfd6e247531713e526064_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই "
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/3715430c8e1063ab668e6f4fc930736da9b77ded_2-FigureI-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nকোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি ।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/23b366ef9d2fdaaa1c34284393b369320c220ff5_3-Figure4-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/d6bf9948c9b90bed1cf2c7e2f534c639db599683_4-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং মোডালিটি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/738511671b7bfef181ce00f0daae46bd78d870ab_2-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন ইমেজিং মডালিটি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এমআরআই ।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/f7cf43ca7c551d3bde8f3c9a22025f66b094532d_7-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই চিত্রে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "সিটি "
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/c7558bc35fddeff52cd6b896cc06df8a79932c32_1-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মেরুদণ্ড"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/a706fe8dc5e0f35562efd1db5eace1558d5e57de_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/71326148832ae7666d888cc19c077124c3b68339_4-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মস্তিষ্ক।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/992a17de2974db0bf1ccc3e704e70c43f932e387_9-Figure7-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে মূলত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মেরুদণ্ড"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/85d4678b292f77d95ced11eabf2b4cb4271b9d31_2-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মেরুদণ্ড"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/af193e009383c4c02049a70e7454e8939afde85a_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/05598ee315d009e4ed496cc1ebfc1c37c2d85ff6_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/089bbc57b95ecca833cf99355544219c223c3845_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মস্তিষ্ক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/df1e601625e7b7b59f49d74537f36d877008e2c4_3-Figure4-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মস্তিষ্ক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/0787a756b401349f40123cb555aace4453701af2_4-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/278e2717b98f819b9f644407acf62520bc828e16_3-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে মূলত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/ef756958f80d52c27a30d3e7a3624be3bd9a289b_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "পেট"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/a47cfb71ceb7ef4e1f84bdfbe8f125c11e042830_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মেরুদণ্ড"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/5d0837a9e75f028fadd57f762a03e964ef444a2b_3-Figure4-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন অঙ্গটি দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মস্তিষ্ক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/7ab3d09cc06d5ba6f85257b3f96042e3f571c4f5_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/fd55a693724eb7418c627ba3d479a99d201817f0_1-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মস্তিষ্ক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/d685ec0b3d22104e266e863c75538e86eb9053d0_4-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "পেট"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/9ad2a9636c90b7ffd8c76d46bd15a14658bf1aab_3-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মস্তিষ্ক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/340da311c35c5d8834b632a0bc50a22f83a34751_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে মূলত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মস্তিষ্ক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/f74214648c4523288bb2aaf48a7fac8747458691_6-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে মূলত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মস্তিষ্ক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/bf07093fe050f3d85e00e0136fd144166c245245_4-Figure4-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/22ade82a7680dd8aef736c7ed48b53516e9cab7a_2-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মেরুদণ্ড।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/8cea0b28d229cc4574538997e5513764eca158a5_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে মূলত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/d80224521af200f6dce80b1c8f6d7008a55e2ffe_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/3bb8ffe87601f43e878239bf1e6393dba122f7d6_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "পেট।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/0f5b9d60c020366e5fe865d397811a1cc720e24f_3-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/45663e56afab476611085faf91abb7c4d69aa8c9_4-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মেরুদণ্ড"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/2b868c1e6c6060e9b71e92375094395aafedd173_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মস্তিষ্ক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/b91d3715aa42f3199f302687d765dea62d156d9a_3-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মস্তিষ্ক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/d5c9cb9601dd72f91eee6915a3daef648396a133_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "পেট"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/aa095e9ccae399a7e100f1322531f2a63ced6490_6-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/579a4f5f29825fc4ebea1c6881a7c3c370fe990c_2-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মেরুদণ্ড।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/eb88d065137a81adaaf85c48b81e9c540614d723_6-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মস্তিষ্ক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/c69e9f9148ddf48094ae030c2dc004a977e144d9_3-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "পেট।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/4ffb7c0f9acead4c16864b6d989bb19c26cbf88d_2-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/7680da0d7438cfae99061c82f4d9aa467bb04643_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/840d4deac25dee4822f845c6a44cf0420ab09e17_1-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে মূলত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "পেট"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/543a514f090eac1d52e883d9fcfb56aadd37b731_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/ef7d16d8c1fde1932788a51d3b20d93b93ba9adc_1-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে মূলত কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মস্তিষ্ক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/7fbeba9b3caf85a4edb5a4f82d3f01ccf3e9439e_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মস্তিষ্ক"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/dd3569a5d73cd3c89de8b84caa45874256082f38_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কি কোনো অস্বাভাবিকতা আছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/a706fe8dc5e0f35562efd1db5eace1558d5e57de_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কি কোনো অস্বাভাবিকতা আছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/71326148832ae7666d888cc19c077124c3b68339_4-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nকোন অস্বাভাবিকতা আছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ।"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/992a17de2974db0bf1ccc3e704e70c43f932e387_9-Figure7-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কি কোনো অস্বাভাবিকতা আছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/85d4678b292f77d95ced11eabf2b4cb4271b9d31_2-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কি কোনো অস্বাভাবিকতা আছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/af193e009383c4c02049a70e7454e8939afde85a_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কি কোনো অস্বাভাবিকতা আছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/05598ee315d009e4ed496cc1ebfc1c37c2d85ff6_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nকোনো অস্বাভাবিকতা আছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/089bbc57b95ecca833cf99355544219c223c3845_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোনো অস্বাভাবিকতা আছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "না"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/df1e601625e7b7b59f49d74537f36d877008e2c4_3-Figure4-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nকোনো অস্বাভাবিকতা কি বিদ্যমান?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/0787a756b401349f40123cb555aace4453701af2_4-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কি কোনো অস্বাভাবিকতা আছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/278e2717b98f819b9f644407acf62520bc828e16_3-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোন অস্বাভাবিকতা আছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/ef756958f80d52c27a30d3e7a3624be3bd9a289b_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোনো অস্বাভাবিকতা আছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/a47cfb71ceb7ef4e1f84bdfbe8f125c11e042830_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কোনও অস্বাভাবিকতা আছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/5d0837a9e75f028fadd57f762a03e964ef444a2b_3-Figure4-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কি কোনো অস্বাভাবিকতা দেখা যাচ্ছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "না"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/7ab3d09cc06d5ba6f85257b3f96042e3f571c4f5_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কি কোনো অস্বাভাবিকতা আছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/fd55a693724eb7418c627ba3d479a99d201817f0_1-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কি কোনো অস্বাভাবিকতা আছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/d685ec0b3d22104e266e863c75538e86eb9053d0_4-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কি কোনো অস্বাভাবিকতা দেখা যাচ্ছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/9ad2a9636c90b7ffd8c76d46bd15a14658bf1aab_3-Figure3-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কি কোনো অস্বাভাবিকতা দেখা যাচ্ছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "না"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/340da311c35c5d8834b632a0bc50a22f83a34751_2-Figure1-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কি কোনো অস্বাভাবিকতা আছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/f74214648c4523288bb2aaf48a7fac8747458691_6-Figure2-1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nছবিতে কি কোনো অস্বাভাবিকতা আছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/medicat/train/images/bf07093fe050f3d85e00e0136fd144166c245245_4-Figure4-1.png"
+    ]
+  }
+]

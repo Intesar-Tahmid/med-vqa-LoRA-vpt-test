@@ -1,0 +1,63 @@
+### Model
+model_name_or_path: google/medgemma-4b-it
+adapter_name_or_path: null
+create_new_adapter: false
+
+### Method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_target: all
+lora_rank: 16
+lora_alpha: 32
+lora_dropout: 0.0
+use_rslora: false
+use_dora: false
+
+### Dataset
+dataset: chest_x-ray_train
+template: gemma3
+cutoff_len: 512
+max_samples: 100000
+overwrite_cache: true
+preprocessing_num_workers: 16
+flash_attn: auto
+shift_attn: false
+report_to: wandb
+
+### Quantization
+quantization_bit: null
+
+### Training
+output_dir: ./output
+overwrite_output_dir: true
+per_device_train_batch_size: 4  # Increased for L40 GPU (22GB)
+per_device_eval_batch_size: 4
+gradient_accumulation_steps: 1  # Reduced to maintain effective batch size
+learning_rate: 2.0e-4
+num_train_epochs: 2
+lr_scheduler_type: linear
+warmup_ratio: 0.03
+logging_steps: 10
+save_steps: 500
+save_strategy: steps
+save_total_limit: 2
+fp16: false
+bf16: false
+ddp_timeout: 180000000
+dataloader_num_workers: 4
+remove_unused_columns: false
+ddp_find_unused_parameters: false
+gradient_checkpointing: true
+deepspeed: null
+optim: adamw_torch
+adam_beta1: 0.9
+adam_beta2: 0.999
+adam_epsilon: 1.0e-8
+max_grad_norm: 1.0
+weight_decay: 0.01
+packing: false
+upcast_layernorm: false
+use_llama_pro: false
+disable_tqdm: false
+seed: 3407

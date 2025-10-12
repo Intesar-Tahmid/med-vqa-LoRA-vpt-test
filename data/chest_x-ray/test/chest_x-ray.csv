@@ -1,0 +1,31 @@
+image_id,image_path,category,category_bn,question,question_bn,llm_answer,llm_answer_bn
+00015953_015,00015953_015.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,No specific conditions are identified.,কোন নির্দিষ্ট অবস্থা চিহ্নিত হয়নি।
+00011237_094,00011237_094.png,position,অবস্থান,Where is the infiltrate located?,অনুপ্রবেশটি কোথায় অবস্থিত?,Middle right,মধ্য ডান
+00012094_040,00012094_040.png,organ,অঙ্গ,What organ is shown in this image?,এই ছবিতে কোন অঙ্গ দেখানো হচ্ছে?,Chest,বুকের
+00016896_009,00016896_009.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities noted in this image?,এই ছবিতে কোনো অস্বাভাবিকতা লক্ষ্য করা গেছে কি?,No.,না।
+00019157_008,00019157_008.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এই ধরণের ইমেজিং পদ্ধতি কি?,X-ray chest,এক্স-রে চেস্ট
+00018102_001,00018102_001.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities present in this image?,এই ছবিতে কোনও অস্বাভাবিকতা আছে কি?,Yes,হ্যাঁ
+00015785_003,00015785_003.png,organ,অঙ্গ,What organ system is primarily depicted in this image?,এই ছবিতে প্রাথমিকভাবে কোন অঙ্গ ব্যবস্থা চিত্রিত করা হয়েছে?,Chest,বুকের
+00011302_001,00011302_001.png,organ,অঙ্গ,Which anatomical region is shown in this image?,এই ছবিতে কোন শারীরবৃত্তীয় অঞ্চল দেখানো হয়েছে?,Chest,বক্ষ
+00026926_000,00026926_000.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত হয়েছে?,No specific conditions are identified.,কোন নির্দিষ্ট অবস্থা চিহ্নিত হয়নি।
+00008774_006,00008774_006.png,position,অবস্থান,Where are the abnormal conditions located in this image?,এই ছবিতে অস্বাভাবিক অবস্থাগুলি কোথায় অবস্থিত?,No abnormal conditions are identified.,কোন অস্বাভাবিক অবস্থা চিহ্নিত হয়নি।
+00002176_007,00002176_007.png,organ,অঙ্গ,Which major body part is shown in this image?,এই ছবিতে কোন প্রধান দেহাংশ দেখানো হয়েছে?,Chest,বুকের
+00020877_000,00020877_000.png,position,অবস্থান,Where are the abnormal findings located?,অস্বাভাবিকতা কোথায় অবস্থিত?,No abnormal findings.,কোন অস্বাভাবিকতা নেই।
+00002681_000,00002681_000.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is depicted?,কোন ইমেজিং পদ্ধতি চিত্রিত করা হয়েছে?,X-ray,এক্স-রে
+00009229_003,00009229_003.png,modality,চিকিৎসা পদ্ধতি,What is the modality of this image?,এই ইমেজের মডালিটি কি?,X-ray,এক্স-রে
+00009474_000,00009474_000.png,organ,অঙ্গ,What is the primary organ system shown in this image?,এই ছবিতে প্রাথমিক অঙ্গতন্ত্র কোনটি?,Lungs,ফুসফুস
+00022800_000,00022800_000.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities present in this image?,এই ছবিতে কোনো অস্বাভাবিকতা আছে কি?,No,না
+00028640_008,00028640_008.png,position,অবস্থান,What is the location of the effusion?,এফিউশনের অবস্থান কোথায়?,Middle right,ডানদিকের মাঝখানে
+00001534_004,00001534_004.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,No specific conditions identified.,কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়নি।
+00020319_002,00020319_002.png,organ,অঙ্গ,What body region does this image show?,এই ছবিটি কোন শরীরের অংশ দেখাচ্ছে?,Chest,বুক
+00005089_014,00005089_014.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities identified in this image?,এই ছবিতে কোনো অস্বাভাবিকতা চিহ্নিত করা হয়েছে কি?,Yes,হ্যাঁ
+00014116_009,00014116_009.png,organ,অঙ্গ,Which body part is shown in this image?,এই ছবিতে কোন শরীরের অংশ দেখানো হয়েছে?,Chest,বুক
+00010634_006,00010634_006.png,position,অবস্থান,What is the anatomical location of any identified conditions?,চিহ্নিত কোন অবস্থার অ্যানাটোমিক্যাল অবস্থান কি?,No specific conditions are identified to localize.,স্থান নির্ণয়ের জন্য কোন নির্দিষ্ট অবস্থা চিহ্নিত হয়নি।
+00013551_000,00013551_000.png,organ,অঙ্গ,Which organ system is primarily displayed in this image?,এই ছবিতে প্রাথমিকভাবে কোন অঙ্গ ব্যবস্থা প্রদর্শিত হচ্ছে?,Chest.,বুক।
+00021818_017,00021818_017.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,No specific conditions are identified.,কোন নির্দিষ্ট অবস্থা চিহ্নিত হয়নি।
+00010805_049,00010805_049.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,"Infiltration, and infiltrate in the middle left.",বাম দিকের মাঝখানে অনুপ্রবেশ এবং অনুপ্রবেশ।
+00020398_012,00020398_012.png,organ,অঙ্গ,Which organ system is primarily depicted in this image?,এই ছবিতে মূলত কোন অঙ্গতন্ত্রের চিত্রণ করা হয়েছে?,Chest,বুকের
+00030615_000,00030615_000.png,abnormality,অস্বাভাবিকতা,Is there an abnormality present?,কোনো অস্বাভাবিকতা আছে কি?,No,না
+00004652_004,00004652_004.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এই ইমেজিং পদ্ধতিটি কী ধরণের?,X-ray,এক্স-রে
+00013673_001,00013673_001.png,position,অবস্থান,Where is the nodule located?,নডিউলটি কোথায় অবস্থিত?,Middle left,বাম মাঝখানে
+00015090_006,00015090_006.png,modality,চিকিৎসা পদ্ধতি,What type of medical imaging is this?,এই কোন ধরণের চিকিৎসা ইমেজিং?,X-ray,এক্স-রে

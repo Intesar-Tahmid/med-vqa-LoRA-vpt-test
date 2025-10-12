@@ -1,0 +1,71 @@
+image_id,image_path,category,category_bn,question,question_bn,llm_answer,llm_answer_bn
+00017705_002,00017705_002.png,abnormality,অস্বাভাবিকতা,Are any abnormalities identified in this image?,এই ছবিতে কোনো অস্বাভাবিকতা চিহ্নিত করা হয়েছে কি?,No,না
+00010931_001,00010931_001.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities present in this image?,এই ছবিতে কোনো অস্বাভাবিকতা আছে কি?,No,না
+00002350_001,00002350_001.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এটি কোন ধরণের ইমেজিং পদ্ধতি?,X-ray,এক্স-রে
+00004822_051,00004822_051.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,Cardiomegaly at middle right,মধ্য ডানদিকে কার্ডিওমেগালি
+00008386_000,00008386_000.png,position,অবস্থান,Where is the nodule located?,নোডুলটি কোথায় অবস্থিত?,Middle right,ডান মাঝখানে
+00016191_017,00016191_017.png,position,অবস্থান,Where is the atelectasis located?,অ্যাটালেক্টাসিস কোথায় অবস্থিত?,Middle right,মধ্য ডান দিকে
+00004630_001,00004630_001.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,"Cardiomegaly, located in the middle right.","কারডিওমেগালি, মধ্যম ডানদিকে অবস্থিত।"
+00014058_010,00014058_010.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,,
+00008468_001,00008468_001.png,position,অবস্থান,What anatomical region does this image primarily show?,এই ছবিটি প্রাথমিকভাবে কোন শারীরবৃত্তীয় অঞ্চল দেখায়?,Chest,বুকের
+00003787_003,00003787_003.png,position,অবস্থান,Where is the atelectasis located?,অ্যাটালেক্টাসিস কোথায় অবস্থিত?,Middle left,বাম মাঝখানে
+00010528_000,00010528_000.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,,
+00000211_010,00000211_010.png,modality,চিকিৎসা পদ্ধতি,What is the imaging modality?,ইমেজিং পদ্ধতি কী?,X-ray,এক্স-রে
+00010828_023,00010828_023.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,"Atelectasis, and pneumonia in the middle right.",এ্যাটালেক্টাসিস এবং ডানদিকে মাঝখানে নিউমোনিয়া।
+00021703_002,00021703_002.png,organ,অঙ্গ,Which organ system is primarily displayed in this image?,এই ছবিতে মূলত কোন অঙ্গতন্ত্র প্রদর্শিত হয়েছে?,Chest,বুক
+00026412_004,00026412_004.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities indicated in the metadata?,মেটাডেটাতে কোনো অস্বাভাবিকতা নির্দেশিত আছে কি?,No,না
+00018950_001,00018950_001.png,organ,অঙ্গ,What main organ system is shown?,কোন প্রধান অঙ্গতন্ত্র দেখানো হয়েছে?,Chest,বুক
+00022470_006,00022470_006.png,modality,চিকিৎসা পদ্ধতি,What type of medical imaging modality is this?,এই ধরণের চিকিৎসা ইমেজিং মডালিটি কী?,X-ray,এক্স-রে
+00029294_001,00029294_001.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,,
+00025465_001,00025465_001.png,modality,চিকিৎসা পদ্ধতি,What modality is this image?,এই ইমেজটি কোন মডালিটি?,X-ray,এক্স-রে
+00019643_031,00019643_031.png,abnormality,অস্বাভাবিকতা,Is any abnormality identified in this image?,এই ছবিতে কোনও অস্বাভাবিকতা চিহ্নিত করা হয়েছে কি?,No,না
+00001437_012,00001437_012.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,Effusion (middle left),প্রস্রাব (মধ্য বাম দিকে)
+00016348_004,00016348_004.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,No specific conditions are identified.,কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়নি।
+00012376_010,00012376_010.png,organ,অঙ্গ,Which body part does this image show?,এই ছবিতে কোন শরীরের অংশ দেখানো হয়েছে?,Chest,বুক
+00004992_018,00004992_018.png,organ,অঙ্গ,Which organ is primarily shown in this image?,এই ছবিতে প্রাথমিকভাবে কোন অঙ্গটি দেখানো হয়েছে?,Lungs,ফুসফুস
+00009042_000,00009042_000.png,organ,অঙ্গ,Which organ system is primarily shown?,কোন অঙ্গতন্ত্র প্রাথমিকভাবে দেখানো হয়েছে?,Chest,বুকে
+00024730_000,00024730_000.png,position,অবস্থান,What is the anatomical location of any identified conditions?,চিহ্নিত কোন অবস্থার শারীরবৃত্তীয় অবস্থান কি?,"No specific conditions are identified, so there are no locations to report.","কোন নির্দিষ্ট অবস্থা চিহ্নিত হয়নি, তাই কোন অবস্থান রিপোর্ট করার নেই।"
+00012415_002,00012415_002.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,"Effusion, nodule (middle left), pneumothorax","প্রলায়, নডিউল (মধ্য বামদিকে), নিউমোথোরেক্স"
+00013471_002,00013471_002.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,"Atelectasis, effusion, and pneumothorax (lower left)","অ্যাটালেক্টাসিস, এফিউশন এবং নিউমোথোরেক্স (বামদিকে নিচে)"
+00023116_005,00023116_005.png,position,অবস্থান,Where is the atelectasis located?,অ্যাটালেক্টাসিস কোথায় অবস্থিত?,Middle right,ডান মাঝখানে
+00012471_000,00012471_000.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities noted in this image?,এই ছবিতে কোনও অস্বাভাবিকতা লক্ষ্য করা গেছে কি?,No,না
+00013969_006,00013969_006.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities noted in this image?,এই ছবিতে কোনও অস্বাভাবিকতা লক্ষ্য করা গেছে কি?,No,না
+00019706_012,00019706_012.png,organ,অঙ্গ,Which organ system is primarily imaged?,কোন অঙ্গ ব্যবস্থা প্রাথমিকভাবে চিত্রিত হয়েছে?,Chest,বুকের
+00021151_000,00021151_000.png,position,অবস্থান,What are the locations of any identified conditions?,কোনও চিহ্নিত অবস্থার অবস্থানগুলি কী কী?,,
+00012174_000,00012174_000.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities present in this image?,এই ছবিতে কোনো অস্বাভাবিকতা রয়েছে?,Yes,হ্যাঁ
+00018972_043,00018972_043.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities detected in this image?,এই ছবিতে কোন অস্বাভাবিকতা সনাক্ত করা হয়েছে কি?,No,না
+00002796_003,00002796_003.png,organ,অঙ্গ,Which major body region is shown in this image?,এই ছবিতে কোন প্রধান শরীরের অংশ দেখানো হয়েছে?,Chest,বুকের
+00014716_007,00014716_007.png,modality,চিকিৎসা পদ্ধতি,What is the imaging modality?,ইমেজিং মডালিটি কি?,X-ray,এক্স-রে
+00030634_000,00030634_000.png,modality,চিকিৎসা পদ্ধতি,What type of medical imaging modality is this?,এই ধরণের চিকিৎসা ইমেজিং পদ্ধতি কী?,X-ray,এক্স-রে
+00000882_006,00000882_006.png,position,অবস্থান,Where are the anatomical locations of any identified diseases?,চিহ্নিত কোনও রোগের শারীরবৃত্তীয় অবস্থানগুলি কোথায়?,"No diseases are identified, so no specific anatomical locations can be provided.","কোনও রোগ চিহ্নিত হয়নি, তাই কোনও নির্দিষ্ট শারীরবৃত্তীয় অবস্থান দেওয়া যাবে না।"
+00017028_000,00017028_000.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities present?,কোন অস্বাভাবিকতা আছে কি?,Yes,হ্যাঁ
+00026586_009,00026586_009.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,"Emphysema, pleural thickening, and pneumothorax (upper left)","এম্ফিসেমা, প্লুরাল ঘনীভবন এবং নিউমোথোরেক্স (বাম উপরের দিকে)"
+00019187_000,00019187_000.png,organ,অঙ্গ,What organ system is primarily depicted in this image?,এই ছবিতে প্রধানত কোন অঙ্গতন্ত্র দেখানো হয়েছে?,Chest,বুকের
+00007848_008,00007848_008.png,position,অবস্থান,What are the anatomical locations of the identified conditions?,চিহ্নিত অবস্থাগুলির অ্যানাটমিকাল অবস্থানগুলি কী?,No conditions are identified.,কোনও অবস্থা চিহ্নিত হয়নি।
+00011575_001,00011575_001.png,modality,চিকিৎসা পদ্ধতি,What is the imaging modality of this image?,এই ছবির ইমেজিং পদ্ধতি কী?,X-ray,এক্স-রে
+00001977_003,00001977_003.png,position,অবস্থান,Where are the identified conditions located?,চিহ্নিত অবস্থার অবস্থান কোথায়?,No conditions identified,কোন অবস্থা চিহ্নিত হয়নি
+00020434_003,00020434_003.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এটি কোন ধরণের ইমেজিং পদ্ধতি?,X-ray,এক্স-রে
+00030606_006,00030606_006.png,abnormality,অস্বাভাবিকতা,Does this image indicate any abnormalities?,এই ইমেজে কোনো অস্বাভাবিকতা নির্দেশ করে কি?,Yes,হ্যাঁ
+00020375_001,00020375_001.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in this image?,এই ছবিতে কোন অস্বাভাবিকতা আছে কি?,No,না
+00001384_000,00001384_000.png,modality,চিকিৎসা পদ্ধতি,What is the imaging modality?,ইমেজিং পদ্ধতি কী?,x-ray,এক্স-রে
+00020438_011,00020438_011.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,"Cardiomegaly (middle right), Effusion, Infiltration","কার্ডিওমেগালি (ডান মাঝখানে), এফিউশন, অনুপ্রবেশ"
+00014014_013,00014014_013.png,position,অবস্থান,Where is the mass located?,গোলকটি কোথায় অবস্থিত?,Middle right,মধ্যম ডানদিকে
+00010634_006,00010634_006.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used?,কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,X-ray,এক্স-রে
+00025686_000,00025686_000.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,"Atelectasis, effusion (lower right)","অ্যাটালেক্টাসিস, এফিউশন (ডান নীচে)"
+00022883_002,00022883_002.png,position,অবস্থান,Where is the atelectasis located?,অ্যাটালেক্টাসিস কোথায় অবস্থিত?,Middle left,মধ্য বাম
+00000032_037,00000032_037.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,"Cardiomegaly, edema, infiltration, and infiltrate (upper left).","হৃৎপিণ্ড বৃদ্ধি, শোথ, অনুপ্রবেশ এবং অনুপ্রবেশ (বাম উপরে)।"
+00013685_000,00013685_000.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এটি কোন ধরণের ইমেজিং পদ্ধতি?,X-ray,এক্স-রে
+00014343_000,00014343_000.png,abnormality,অস্বাভাবিকতা,Is any abnormality identified in this image?,এই ছবিতে কি কোনও অস্বাভাবিকতা চিহ্নিত করা হয়েছে?,No,না
+00003155_000,00003155_000.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ইমেজে কোন ইমেজিং মডালিটি ব্যবহার করা হয়েছে?,X-ray,এক্স-রে
+00012291_012,00012291_012.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is this?,এটি কী ধরণের ইমেজিং পদ্ধতি?,X-ray,এক্স-রে
+00010028_004,00010028_004.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities identified?,কোনও অস্বাভাবিকতা চিহ্নিত হয়েছে কি?,No,না
+00000740_000,00000740_000.png,condition,রোগ,What specific conditions are identified here?,এখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?,"Atelectasis, Cardiomegaly (middle right)","এ্যাটালেক্টাসিস, কার্ডিওমেগালি (মধ্য ডান)"
+00003948_001,00003948_001.png,position,অবস্থান,Where is the pneumothorax located?,নিউমোথোরেক্স কোথায় অবস্থিত?,,
+00024134_000,00024134_000.png,modality,চিকিৎসা পদ্ধতি,What type of medical imaging modality is this?,এই কোন ধরণের মেডিকেল ইমেজিং পদ্ধতি?,X-ray,এক্স-রে
+00007120_009,00007120_009.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities present in this image?,এই ছবিতে কোনো অস্বাভাবিকতা আছে কি?,Yes,হ্যাঁ
+00027028_017,00027028_017.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities present in this image?,এই ছবিতে কোনও অস্বাভাবিকতা আছে কি?,Yes,হ্যাঁ
+00021845_007,00021845_007.png,organ,অঙ্গ,Which major organ system is primarily visualized in this image?,এই ছবিতে প্রধানত কোন প্রধান অঙ্গ ব্যবস্থা দেখা যাচ্ছে?,"Chest (including lungs, heart, and mediastinum)","বুকের (ফুসফুস, হৃৎপিণ্ড এবং মিডিয়াস্টিনাম সহ)"
+00012298_006,00012298_006.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,কী ধরণের ইমেজিং পদ্ধতি এটি?,X-ray,এক্স-রে
+00012880_001,00012880_001.png,organ,অঙ্গ,Which primary organ is shown in this image?,এই ছবিতে কোন প্রাথমিক অঙ্গ দেখানো হয়েছে?,Chest,বুক
+00028941_000,00028941_000.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in this image?,এই ছবিতে কোনও অস্বাভাবিকতা আছে কি?,No,না
+00003300_000,00003300_000.png,organ,অঙ্গ,What primary organ or body region is depicted in this image?,এই ছবিতে কোন প্রাথমিক অঙ্গ বা শারীরিক অঞ্চল চিত্রিত করা হয়েছে?,Chest,বুকের

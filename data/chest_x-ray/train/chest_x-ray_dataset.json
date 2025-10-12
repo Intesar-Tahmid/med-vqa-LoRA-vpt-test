@@ -1,0 +1,962 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোনো অস্বাভাবিকতা চিহ্নিত করা হয়েছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "না"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00017705_002.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোনো অস্বাভাবিকতা আছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "না"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00010931_001.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটি কোন ধরণের ইমেজিং পদ্ধতি?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00002350_001.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "মধ্য ডানদিকে কার্ডিওমেগালি"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00004822_051.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nনোডুলটি কোথায় অবস্থিত?"
+      },
+      {
+        "from": "gpt",
+        "value": "ডান মাঝখানে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00008386_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nঅ্যাটালেক্টাসিস কোথায় অবস্থিত?"
+      },
+      {
+        "from": "gpt",
+        "value": "মধ্য ডান দিকে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00016191_017.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "কারডিওমেগালি, মধ্যম ডানদিকে অবস্থিত।"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00004630_001.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিটি প্রাথমিকভাবে কোন শারীরবৃত্তীয় অঞ্চল দেখায়?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুকের"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00008468_001.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nঅ্যাটালেক্টাসিস কোথায় অবস্থিত?"
+      },
+      {
+        "from": "gpt",
+        "value": "বাম মাঝখানে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00003787_003.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nইমেজিং পদ্ধতি কী?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00000211_010.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এ্যাটালেক্টাসিস এবং ডানদিকে মাঝখানে নিউমোনিয়া।"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00010828_023.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে মূলত কোন অঙ্গতন্ত্র প্রদর্শিত হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00021703_002.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nমেটাডেটাতে কোনো অস্বাভাবিকতা নির্দেশিত আছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "না"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00026412_004.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nকোন প্রধান অঙ্গতন্ত্র দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00018950_001.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ধরণের চিকিৎসা ইমেজিং মডালিটি কী?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00022470_006.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ইমেজটি কোন মডালিটি?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00025465_001.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোনও অস্বাভাবিকতা চিহ্নিত করা হয়েছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "না"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00019643_031.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "প্রস্রাব (মধ্য বাম দিকে)"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00001437_012.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়নি।"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00016348_004.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন শরীরের অংশ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00012376_010.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রাথমিকভাবে কোন অঙ্গটি দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "ফুসফুস"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00004992_018.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nকোন অঙ্গতন্ত্র প্রাথমিকভাবে দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুকে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00009042_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nচিহ্নিত কোন অবস্থার শারীরবৃত্তীয় অবস্থান কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "কোন নির্দিষ্ট অবস্থা চিহ্নিত হয়নি, তাই কোন অবস্থান রিপোর্ট করার নেই।"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00024730_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "প্রলায়, নডিউল (মধ্য বামদিকে), নিউমোথোরেক্স"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00012415_002.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "অ্যাটালেক্টাসিস, এফিউশন এবং নিউমোথোরেক্স (বামদিকে নিচে)"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00013471_002.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nঅ্যাটালেক্টাসিস কোথায় অবস্থিত?"
+      },
+      {
+        "from": "gpt",
+        "value": "ডান মাঝখানে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00023116_005.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোনও অস্বাভাবিকতা লক্ষ্য করা গেছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "না"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00012471_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোনও অস্বাভাবিকতা লক্ষ্য করা গেছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "না"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00013969_006.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nকোন অঙ্গ ব্যবস্থা প্রাথমিকভাবে চিত্রিত হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুকের"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00019706_012.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোনো অস্বাভাবিকতা রয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00012174_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন অস্বাভাবিকতা সনাক্ত করা হয়েছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "না"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00018972_043.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন প্রধান শরীরের অংশ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুকের"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00002796_003.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nইমেজিং মডালিটি কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00014716_007.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ধরণের চিকিৎসা ইমেজিং পদ্ধতি কী?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00030634_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nচিহ্নিত কোনও রোগের শারীরবৃত্তীয় অবস্থানগুলি কোথায়?"
+      },
+      {
+        "from": "gpt",
+        "value": "কোনও রোগ চিহ্নিত হয়নি, তাই কোনও নির্দিষ্ট শারীরবৃত্তীয় অবস্থান দেওয়া যাবে না।"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00000882_006.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nকোন অস্বাভাবিকতা আছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00017028_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এম্ফিসেমা, প্লুরাল ঘনীভবন এবং নিউমোথোরেক্স (বাম উপরের দিকে)"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00026586_009.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রধানত কোন অঙ্গতন্ত্র দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুকের"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00019187_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nচিহ্নিত অবস্থাগুলির অ্যানাটমিকাল অবস্থানগুলি কী?"
+      },
+      {
+        "from": "gpt",
+        "value": "কোনও অবস্থা চিহ্নিত হয়নি।"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00007848_008.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবির ইমেজিং পদ্ধতি কী?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00011575_001.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nচিহ্নিত অবস্থার অবস্থান কোথায়?"
+      },
+      {
+        "from": "gpt",
+        "value": "কোন অবস্থা চিহ্নিত হয়নি"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00001977_003.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটি কোন ধরণের ইমেজিং পদ্ধতি?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00020434_003.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ইমেজে কোনো অস্বাভাবিকতা নির্দেশ করে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00030606_006.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন অস্বাভাবিকতা আছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "না"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00020375_001.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nইমেজিং পদ্ধতি কী?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00001384_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "কার্ডিওমেগালি (ডান মাঝখানে), এফিউশন, অনুপ্রবেশ"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00020438_011.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nগোলকটি কোথায় অবস্থিত?"
+      },
+      {
+        "from": "gpt",
+        "value": "মধ্যম ডানদিকে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00014014_013.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "অ্যাটালেক্টাসিস, এফিউশন (ডান নীচে)"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00025686_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nঅ্যাটালেক্টাসিস কোথায় অবস্থিত?"
+      },
+      {
+        "from": "gpt",
+        "value": "মধ্য বাম"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00022883_002.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "হৃৎপিণ্ড বৃদ্ধি, শোথ, অনুপ্রবেশ এবং অনুপ্রবেশ (বাম উপরে)।"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00000032_037.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটি কোন ধরণের ইমেজিং পদ্ধতি?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00013685_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কি কোনও অস্বাভাবিকতা চিহ্নিত করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "না"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00014343_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ইমেজে কোন ইমেজিং মডালিটি ব্যবহার করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00003155_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএটি কী ধরণের ইমেজিং পদ্ধতি?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00012291_012.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nকোনও অস্বাভাবিকতা চিহ্নিত হয়েছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "না"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00010028_004.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএখানে কোন নির্দিষ্ট অবস্থা চিহ্নিত করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "এ্যাটালেক্টাসিস, কার্ডিওমেগালি (মধ্য ডান)"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00000740_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই কোন ধরণের মেডিকেল ইমেজিং পদ্ধতি?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00024134_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোনো অস্বাভাবিকতা আছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00007120_009.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোনও অস্বাভাবিকতা আছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "হ্যাঁ"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00027028_017.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে প্রধানত কোন প্রধান অঙ্গ ব্যবস্থা দেখা যাচ্ছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুকের (ফুসফুস, হৃৎপিণ্ড এবং মিডিয়াস্টিনাম সহ)"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00021845_007.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nকী ধরণের ইমেজিং পদ্ধতি এটি?"
+      },
+      {
+        "from": "gpt",
+        "value": "এক্স-রে"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00012298_006.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন প্রাথমিক অঙ্গ দেখানো হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুক"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00012880_001.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোনও অস্বাভাবিকতা আছে কি?"
+      },
+      {
+        "from": "gpt",
+        "value": "না"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00028941_000.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nএই ছবিতে কোন প্রাথমিক অঙ্গ বা শারীরিক অঞ্চল চিত্রিত করা হয়েছে?"
+      },
+      {
+        "from": "gpt",
+        "value": "বুকের"
+      }
+    ],
+    "images": [
+      "data/chest_x-ray/train/images/00003300_000.png"
+    ]
+  }
+]
