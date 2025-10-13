@@ -198,9 +198,10 @@ class MedVQATrainer:
         torch._dynamo.config.disable = True
         
         logger.info("Loading model for inference...")
-        processor = AutoProcessor.from_pretrained("google/medgemma-4b-it")
+        model_name = self.config.get('model_name_or_path', 'google/medgemma-4b-it')
+        processor = AutoProcessor.from_pretrained(model_name)
         model = AutoModelForCausalLM.from_pretrained(
-            "google/medgemma-4b-it",
+            model_name,
             torch_dtype=torch.bfloat16,
             device_map="auto"
         )

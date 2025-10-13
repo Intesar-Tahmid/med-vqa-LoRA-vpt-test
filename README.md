@@ -7,8 +7,10 @@ Fine-tuning `google/medgemma-4b-it` vision-language model using FP32 LoRA with L
 ```
 med-vqa-lora/
 ├── configs/
-│   ├── med-gemma-4b.yaml          # Training configuration
-│   └── med-gemma-4b-test.yaml     # Testing configuration
+│   ├── qwen2.5-vl-7b.yaml        # Training configuration
+│   ├── qwen2.5-vl-7b-test.yaml   # Testing configuration
+│   ├── med-gemma-4b.yaml         # Legacy MedGemma training config
+│   └── med-gemma-4b-test.yaml    # Legacy MedGemma testing config
 ├── data/
 │   ├── dataset_info.json          # Master dataset registry
 │   ├── chest_x-ray/

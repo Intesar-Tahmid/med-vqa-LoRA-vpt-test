@@ -1,0 +1,17 @@
+### Model
+model_name_or_path: Qwen/Qwen2.5-VL-7B-Instruct
+adapter_name_or_path: ./output
+
+### Method
+stage: sft
+finetuning_type: lora
+
+### Dataset
+dataset: chest_x-ray_test
+template: qwen2_vl
+
+### Generation
+do_sample: false
+max_new_tokens: 256
+temperature: 0.7
+top_p: 0.9

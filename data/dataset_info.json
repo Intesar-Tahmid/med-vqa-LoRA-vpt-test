@@ -1,5 +1,5 @@
 {
-  "chest_x_ray_train": {
+  "chest_x-ray_train": {
     "file_name": "chest_x-ray/train/chest_x-ray_dataset.json",
     "formatting": "sharegpt",
     "columns": {
@@ -13,7 +13,7 @@
       "assistant_tag": "gpt"
     }
   },
-  "chest_x_ray_test": {
+  "chest_x-ray_test": {
     "file_name": "chest_x-ray/test/chest_x-ray_dataset.json",
     "formatting": "sharegpt",
     "columns": {
@@ -41,22 +41,8 @@
       "assistant_tag": "gpt"
     }
   },
-  "chest_x-ray_test": {
-    "file_name": "chest_x-ray/test/chest_x-ray_dataset.json",
-    "formatting": "sharegpt",
-    "columns": {
-      "messages": "conversations",
-      "images": "images"
-    },
-    "tags": {
-      "role_tag": "from",
-      "content_tag": "value",
-      "user_tag": "human",
-      "assistant_tag": "gpt"
-    }
-  },
-  "chest_x-ray_train": {
-    "file_name": "chest_x-ray/train/chest_x-ray_dataset.json",
+  "medicat_test": {
+    "file_name": "medicat/test/medicat_dataset.json",
     "formatting": "sharegpt",
     "columns": {
       "messages": "conversations",

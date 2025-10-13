@@ -1,0 +1,201 @@
+image_id,image_path,category,category_bn,question,question_bn,llm_answer,llm_answer_bn
+1265,db7cfb7e215a939fc0494270eda3c8b518614cae_2-Figure2-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,Ultrasound,আলট্রাসাউন্ড
+1075,a4ac2efd4d2fe28fcd60dad95f3c68ae84b838a9_1-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এটি কোন ধরনের ইমেজিং মোডালিটি?,MRI,এমআরআই
+71,992a17de2974db0bf1ccc3e704e70c43f932e387_9-Figure7-1.png,modality,চিকিৎসা পদ্ধতি,What is the imaging modality?,ইমেজিং পদ্ধতিটি কি?,MRI,এমআরআই ।
+340,85d4678b292f77d95ced11eabf2b4cb4271b9d31_2-Figure2-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ছবিতে কোন ইমেজিং মোডালিটি ব্যবহার করা হয়েছে?,CT,সিটি
+1195,dd98f2794d2b2a5f6c3af46212408fb930ed0f2d_2-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এটা কি ধরনের ইমেজিং মডালিটি (imaging modality)?,X-ray,এক্স-রে -।
+116,05598ee315d009e4ed496cc1ebfc1c37c2d85ff6_2-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এটি কি ধরনের ইমেজিং মডালিটি (imaging modality)?,CT,সিটি 
+621,4ffe37a63b947852a0ed0718b94de56f1fa5f301_2-Figure2-1.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এটি কোন ধরনের ইমেজিং পদ্ধতি?,CT,সিটি
+129,df1e601625e7b7b59f49d74537f36d877008e2c4_3-Figure4-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,CT,সিটি
+1032,fa165c46c26a43c5b113d0791153c1b8b9883333_8-Figure12-1.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এটি কোন ধরণের ইমেজিং মোডালিটি?,X-ray,এক্স-রে
+1062,7efed683c7695aad97efe651e0a6b8b59766963a_6-Figure3-1.png,modality,চিকিৎসা পদ্ধতি,What type of image is this?,এটি কি ধরনের ছবি?,X-ray,এক্স-রে
+1380,ef756958f80d52c27a30d3e7a3624be3bd9a289b_2-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এটি কোন ধরনের ইমেজিং পদ্ধতি?,X-ray,এক্স-রে
+1286,02f9a8265b9ac8aa192352f4f6aa0050505b99e6_2-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is shown in the image?,ছবিতে কোন ইমেজিং পদ্ধতি দেখানো হয়েছে?,MRI,এমআরআই
+355,5d0837a9e75f028fadd57f762a03e964ef444a2b_3-Figure4-1.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is used in this image?,এই ছবিতে কোন ধরনের ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,MRI,এমআরআই।
+142,7ab3d09cc06d5ba6f85257b3f96042e3f571c4f5_2-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এটা কি ধরনের ইমেজিং পদ্ধতি?,CT,সিটি
+899,b0911ae91296df54c84bcfe5779db1944ff8f09d_3-Figure2-1.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এটি কী ধরনের ইমেজিং মোডালিটি?,CT,সিটি
+359,d685ec0b3d22104e266e863c75538e86eb9053d0_4-Figure3-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,CT,সিটি
+271,9ad2a9636c90b7ffd8c76d46bd15a14658bf1aab_3-Figure3-1.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এই ইমেজিং modality-এর প্রকার কি?,CT,সিটি
+1140,e7c3d85ad7852bbb7100471680a5b69e520ed6fd_3-Figure2-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,MRI,এমআরআই
+304,f74214648c4523288bb2aaf48a7fac8747458691_6-Figure2-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this figure?,এই চিত্রে কোন ইমেজিং মোডালিটি ব্যবহার করা হয়েছে?,CT,সিটি
+908,83585d6a2d1fa14ff21d4d2d600d53c84d9feaa2_3-Figure5-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,CT,সিটি
+1086,44dbb8c1aaad23f7d4f266a1443183929e7f4aea_2-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this figure?,এই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,MRI,এমআরআই ম্যাগনেটিক রেজোন্যান্স ইমেজিং
+1495,5b40d162b494ed08eef8ff84f47dc9fa31df8263_3-Figure4-1.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এটি কোন ধরনের ইমেজিং পদ্ধতি?,CT,সিটি
+1006,3f80deb61ac0d9a481e55c27510607f02c37d56d_2-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,MRI,এমআরআই
+630,4a72de61a90851be3c2e6b7f57469d0c0731e076_2-Figure2-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used?,কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,MRI,এমআরআই
+1011,7314c43fa11d0ab7f269450ef0b69e3b6f6748c7_2-Figure3-1.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এটা কি ধরনের ইমেজিং মোডালিটি?,CT,সিটি
+486,6aff8cb88b8ba67415aa7becad9ce95bc92844ab_1-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this figure?,এই চিত্রে কোন ইমেজিং মোডালিটি ব্যবহার করা হয়েছে?,MRI,এমআরআই
+1442,eaa81d18bfa4625dc714e69a9bb8c885a4d48d29_2-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What type of medical imaging is this?,এটি কি ধরনের মেডিকেল ইমেজিং?,X-ray,এক্স-রে -।
+1475,8aefc2c038992be2118bbf0e7bbc13ea0833991e_10-Figure7-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is depicted in the image?,ছবিতে কোন ইমেজিং পদ্ধতি দেখানো হয়েছে?,MRI,এমআরআই 
+1076,1d10e2c71b73da254f5f2d7dd427c897a807c1df_5-Figure2-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used?,কোন ইমেজিং মোডালিটি ব্যবহার করা হয়েছে?,MRI,এমআরআই
+414,340da311c35c5d8834b632a0bc50a22f83a34751_2-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,CT,সিটি 
+1500,6c71d6e80600f4250b3655abecc404cbcbc494a1_2-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,MRI,এমআরআই
+919,f76ae4e5f1b63a1b405a7b771bbd37c6099ae021_2-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is this?,এটি কি ধরনের ইমেজিং modality?,MRI,এমআরআই।
+406,543a514f090eac1d52e883d9fcfb56aadd37b731_2-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ছবিতে কোন ইমেজিং মোডালিটি ব্যবহার করা হয়েছে?,CT,সিটি
+615,a614c88f8389ac90d94cfd6e247531713e526064_2-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What type of imaging modality is shown?,কি ধরনের ইমেজিং পদ্ধতি দেখানো হয়েছে?,MRI,এমআরআই 
+1492,3715430c8e1063ab668e6f4fc930736da9b77ded_2-FigureI-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,MRI,এমআরআই 
+495,23b366ef9d2fdaaa1c34284393b369320c220ff5_3-Figure4-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used?,কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,CT,সিটি ।
+412,d6bf9948c9b90bed1cf2c7e2f534c639db599683_4-Figure2-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ছবিতে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,CT,সিটি
+840,738511671b7bfef181ce00f0daae46bd78d870ab_2-Figure3-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ছবিতে কোন ইমেজিং মোডালিটি ব্যবহার করা হয়েছে?,CT,সিটি
+1047,f7cf43ca7c551d3bde8f3c9a22025f66b094532d_7-Figure2-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this image?,এই ছবিতে কোন ইমেজিং মডালিটি ব্যবহার করা হয়েছে?,MRI,এমআরআই ।
+980,c7558bc35fddeff52cd6b896cc06df8a79932c32_1-Figure1-1.png,modality,চিকিৎসা পদ্ধতি,What imaging modality is used in this figure?,এই চিত্রে কোন ইমেজিং পদ্ধতি ব্যবহার করা হয়েছে?,CT,সিটি 
+472,a706fe8dc5e0f35562efd1db5eace1558d5e57de_2-Figure1-1.png,organ,অঙ্গ,What organ is shown in the image?,ছবিতে কোন অঙ্গ দেখানো হয়েছে?,spine,মেরুদণ্ড
+1074,71326148832ae7666d888cc19c077124c3b68339_4-Figure2-1.png,organ,অঙ্গ,What organ is primarily shown in this image?,এই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?,chest,বুক
+71,992a17de2974db0bf1ccc3e704e70c43f932e387_9-Figure7-1.png,organ,অঙ্গ,What organ is shown in the image?,ছবিতে কোন অঙ্গ দেখানো হয়েছে?,brain,মস্তিষ্ক।
+340,85d4678b292f77d95ced11eabf2b4cb4271b9d31_2-Figure2-1.png,organ,অঙ্গ,What organ is primarily shown in this image?,এই ছবিতে মূলত কোন অঙ্গ দেখানো হয়েছে?,spine,মেরুদণ্ড
+783,af193e009383c4c02049a70e7454e8939afde85a_2-Figure1-1.png,organ,অঙ্গ,What organ is shown in the image?,ছবিতে কোন অঙ্গ দেখানো হয়েছে?,spine,মেরুদণ্ড
+116,05598ee315d009e4ed496cc1ebfc1c37c2d85ff6_2-Figure1-1.png,organ,অঙ্গ,What organ is primarily shown in this image?,এই ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?,chest,বুক
+620,089bbc57b95ecca833cf99355544219c223c3845_2-Figure1-1.png,organ,অঙ্গ,What organ is primarily shown in the image?,ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?,chest,বুক
+129,df1e601625e7b7b59f49d74537f36d877008e2c4_3-Figure4-1.png,organ,অঙ্গ,What organ is shown in this image?,এই ছবিতে কোন অঙ্গ দেখানো হয়েছে?,brain,মস্তিষ্ক
+760,0787a756b401349f40123cb555aace4453701af2_4-Figure3-1.png,organ,অঙ্গ,What organ is shown in the image?,ছবিতে কোন অঙ্গ দেখানো হয়েছে?,brain,মস্তিষ্ক
+1252,278e2717b98f819b9f644407acf62520bc828e16_3-Figure3-1.png,organ,অঙ্গ,Which organ is primarily shown in this image?,এই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?,chest,বুক
+1380,ef756958f80d52c27a30d3e7a3624be3bd9a289b_2-Figure1-1.png,organ,অঙ্গ,Which organ is primarily shown in this image?,এই ছবিতে মূলত কোন অঙ্গ দেখানো হয়েছে?,chest,বুক
+1273,a47cfb71ceb7ef4e1f84bdfbe8f125c11e042830_2-Figure1-1.png,organ,অঙ্গ,What organ is shown in the image?,ছবিতে কোন অঙ্গ দেখানো হয়েছে?,abdomen,পেট
+355,5d0837a9e75f028fadd57f762a03e964ef444a2b_3-Figure4-1.png,organ,অঙ্গ,Which organ is primarily shown in this image?,এই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?,spine,মেরুদণ্ড
+142,7ab3d09cc06d5ba6f85257b3f96042e3f571c4f5_2-Figure1-1.png,organ,অঙ্গ,What organ is shown in this image?,এই ছবিতে কোন অঙ্গটি দেখানো হয়েছে?,brain,মস্তিষ্ক
+1481,fd55a693724eb7418c627ba3d479a99d201817f0_1-Figure1-1.png,organ,অঙ্গ,What organ is primarily shown in this image?,এই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?,chest,বুক
+359,d685ec0b3d22104e266e863c75538e86eb9053d0_4-Figure3-1.png,organ,অঙ্গ,What organ is shown in the image?,ছবিতে কোন অঙ্গ দেখানো হয়েছে?,brain,মস্তিষ্ক
+271,9ad2a9636c90b7ffd8c76d46bd15a14658bf1aab_3-Figure3-1.png,organ,অঙ্গ,What organ is primarily shown in this image?,এই ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?,abdomen,পেট
+414,340da311c35c5d8834b632a0bc50a22f83a34751_2-Figure1-1.png,organ,অঙ্গ,What organ is shown in this image?,ছবিতে কোন অঙ্গ দেখানো হয়েছে?,brain,মস্তিষ্ক
+304,f74214648c4523288bb2aaf48a7fac8747458691_6-Figure2-1.png,organ,অঙ্গ,What organ is primarily shown in this image?,এই ছবিতে মূলত কোন অঙ্গ দেখানো হয়েছে?,brain,মস্তিষ্ক
+907,bf07093fe050f3d85e00e0136fd144166c245245_4-Figure4-1.png,organ,অঙ্গ,Which organ is primarily depicted in this image?,এই ছবিতে মূলত কোন অঙ্গ দেখানো হয়েছে?,brain,মস্তিষ্ক
+666,22ade82a7680dd8aef736c7ed48b53516e9cab7a_2-Figure2-1.png,organ,অঙ্গ,What organ is primarily shown in this image?,এই ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?,chest,বুক
+984,8cea0b28d229cc4574538997e5513764eca158a5_2-Figure1-1.png,organ,অঙ্গ,Which organ is primarily shown in this image?,এই ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?,spine,মেরুদণ্ড।
+1005,d80224521af200f6dce80b1c8f6d7008a55e2ffe_2-Figure1-1.png,organ,অঙ্গ,Which organ is primarily shown in this image?,এই ছবিতে মূলত কোন অঙ্গ দেখানো হয়েছে?,chest,বুক
+629,3bb8ffe87601f43e878239bf1e6393dba122f7d6_2-Figure1-1.png,organ,অঙ্গ,What organ is primarily shown in this image?,এই ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?,chest,বুক
+1437,0f5b9d60c020366e5fe865d397811a1cc720e24f_3-Figure3-1.png,organ,অঙ্গ,What organ is primarily shown in this image?,এই ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?,abdomen,পেট।
+494,45663e56afab476611085faf91abb7c4d69aa8c9_4-Figure1-1.png,organ,অঙ্গ,Which organ is primarily shown in this image?,এই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?,chest,বুক।
+1093,2b868c1e6c6060e9b71e92375094395aafedd173_2-Figure1-1.png,organ,অঙ্গ,What organ is shown in the image?,ছবিতে কোন অঙ্গ দেখানো হয়েছে?,spine,মেরুদণ্ড
+1343,b91d3715aa42f3199f302687d765dea62d156d9a_3-Figure2-1.png,organ,অঙ্গ,What organ is shown in this image?,ছবিতে কোন অঙ্গ দেখানো হয়েছে?,brain,মস্তিষ্ক
+431,d5c9cb9601dd72f91eee6915a3daef648396a133_2-Figure1-1.png,organ,অঙ্গ,Which organ is depicted in this image?,এই ছবিতে কোন অঙ্গ দেখানো হয়েছে?,brain,মস্তিষ্ক
+1034,aa095e9ccae399a7e100f1322531f2a63ced6490_6-Figure1-1.png,organ,অঙ্গ,What organ is primarily shown in this image?,এই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?,abdomen,পেট
+1041,579a4f5f29825fc4ebea1c6881a7c3c370fe990c_2-Figure2-1.png,organ,অঙ্গ,What organ is primarily shown in the image?,ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?,chest,বুক।
+918,eb88d065137a81adaaf85c48b81e9c540614d723_6-Figure3-1.png,organ,অঙ্গ,What organ is primarily shown in the image?,ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?,spine,মেরুদণ্ড।
+1101,c69e9f9148ddf48094ae030c2dc004a977e144d9_3-Figure2-1.png,organ,অঙ্গ,What organ is shown in the image?,ছবিতে কোন অঙ্গ দেখানো হয়েছে?,brain,মস্তিষ্ক
+1145,4ffb7c0f9acead4c16864b6d989bb19c26cbf88d_2-Figure3-1.png,organ,অঙ্গ,What organ is shown in the image?,ছবিতে কোন অঙ্গ দেখানো হয়েছে?,abdomen,পেট।
+1219,7680da0d7438cfae99061c82f4d9aa467bb04643_2-Figure1-1.png,organ,অঙ্গ,What organ is primarily shown in this image?,এই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?,chest,বুক
+971,840d4deac25dee4822f845c6a44cf0420ab09e17_1-Figure1-1.png,organ,অঙ্গ,What organ is primarily shown in this image?,এই ছবিতে প্রাথমিকভাবে কোন অঙ্গ দেখানো হয়েছে?,chest,বুক
+406,543a514f090eac1d52e883d9fcfb56aadd37b731_2-Figure1-1.png,organ,অঙ্গ,Which organ is primarily shown in this image?,এই ছবিতে মূলত কোন অঙ্গ দেখানো হয়েছে?,abdomen,পেট
+839,ef7d16d8c1fde1932788a51d3b20d93b93ba9adc_1-Figure1-1.png,organ,অঙ্গ,What organ is primarily shown in this image?,এই ছবিতে প্রধানত কোন অঙ্গ দেখানো হয়েছে?,chest,বুক
+1294,7fbeba9b3caf85a4edb5a4f82d3f01ccf3e9439e_2-Figure1-1.png,organ,অঙ্গ,Which organ is primarily shown in this image?,এই ছবিতে মূলত কোন অঙ্গ দেখানো হয়েছে?,brain,মস্তিষ্ক
+1178,dd3569a5d73cd3c89de8b84caa45874256082f38_2-Figure1-1.png,organ,অঙ্গ,What organ is shown in this image?,এই ছবিতে কোন অঙ্গ দেখানো হয়েছে?,brain,মস্তিষ্ক
+472,a706fe8dc5e0f35562efd1db5eace1558d5e57de_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+1074,71326148832ae7666d888cc19c077124c3b68339_4-Figure2-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+71,992a17de2974db0bf1ccc3e704e70c43f932e387_9-Figure7-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality?,কোন অস্বাভাবিকতা আছে কি?,Yes,হ্যাঁ।
+340,85d4678b292f77d95ced11eabf2b4cb4271b9d31_2-Figure2-1.png,abnormality,অস্বাভাবিকতা,Is there an abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+783,af193e009383c4c02049a70e7454e8939afde85a_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+116,05598ee315d009e4ed496cc1ebfc1c37c2d85ff6_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,yes,হ্যাঁ
+620,089bbc57b95ecca833cf99355544219c223c3845_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present?,কোনো অস্বাভাবিকতা আছে কি?,yes,হ্যাঁ
+129,df1e601625e7b7b59f49d74537f36d877008e2c4_3-Figure4-1.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities present in the image?,ছবিতে কোনো অস্বাভাবিকতা আছে কি?,no,না
+760,0787a756b401349f40123cb555aace4453701af2_4-Figure3-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present?,কোনো অস্বাভাবিকতা কি বিদ্যমান?,yes,হ্যাঁ
+1252,278e2717b98f819b9f644407acf62520bc828e16_3-Figure3-1.png,abnormality,অস্বাভাবিকতা,Is there an abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+1380,ef756958f80d52c27a30d3e7a3624be3bd9a289b_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities present in the image?,ছবিতে কোন অস্বাভাবিকতা আছে কি?,yes,হ্যাঁ
+1273,a47cfb71ceb7ef4e1f84bdfbe8f125c11e042830_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কোনো অস্বাভাবিকতা আছে কি?,Yes,হ্যাঁ
+355,5d0837a9e75f028fadd57f762a03e964ef444a2b_3-Figure4-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কোনও অস্বাভাবিকতা আছে কি?,Yes,হ্যাঁ
+142,7ab3d09cc06d5ba6f85257b3f96042e3f571c4f5_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা দেখা যাচ্ছে?,no,না
+1481,fd55a693724eb7418c627ba3d479a99d201817f0_1-Figure1-1.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+359,d685ec0b3d22104e266e863c75538e86eb9053d0_4-Figure3-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+271,9ad2a9636c90b7ffd8c76d46bd15a14658bf1aab_3-Figure3-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা দেখা যাচ্ছে?,Yes,হ্যাঁ
+414,340da311c35c5d8834b632a0bc50a22f83a34751_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা দেখা যাচ্ছে?,no,না
+304,f74214648c4523288bb2aaf48a7fac8747458691_6-Figure2-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+907,bf07093fe050f3d85e00e0136fd144166c245245_4-Figure4-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+666,22ade82a7680dd8aef736c7ed48b53516e9cab7a_2-Figure2-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+984,8cea0b28d229cc4574538997e5513764eca158a5_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there an abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ।
+1005,d80224521af200f6dce80b1c8f6d7008a55e2ffe_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in this image?,এই ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+629,3bb8ffe87601f43e878239bf1e6393dba122f7d6_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities present in this image?,এই ছবিতে কি কোনো অস্বাভাবিকতা আছে?,yes,হ্যাঁ
+1437,0f5b9d60c020366e5fe865d397811a1cc720e24f_3-Figure3-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কোনো অস্বাভাবিকতা আছে কি?,Yes,হ্যাঁ।
+494,45663e56afab476611085faf91abb7c4d69aa8c9_4-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ।
+1093,2b868c1e6c6060e9b71e92375094395aafedd173_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কোনো অস্বাভাবিকতা আছে কি?,Yes,হ্যাঁ
+1343,b91d3715aa42f3199f302687d765dea62d156d9a_3-Figure2-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+431,d5c9cb9601dd72f91eee6915a3daef648396a133_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কোনো অস্বাভাবিকতা আছে কি?,Yes,হ্যাঁ
+1034,aa095e9ccae399a7e100f1322531f2a63ced6490_6-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there an abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা দেখা যাচ্ছে?,yes,হ্যাঁ
+1041,579a4f5f29825fc4ebea1c6881a7c3c370fe990c_2-Figure2-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+918,eb88d065137a81adaaf85c48b81e9c540614d723_6-Figure3-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,এই ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ।
+1101,c69e9f9148ddf48094ae030c2dc004a977e144d9_3-Figure2-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present?,কোনো অস্বাভাবিকতা আছে কি?,Yes,হ্যাঁ
+1145,4ffb7c0f9acead4c16864b6d989bb19c26cbf88d_2-Figure3-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality visible in the image?,ছবিতে কোনো অস্বাভাবিকতা দেখা যাচ্ছে কি?,Yes,হ্যাঁ।
+1219,7680da0d7438cfae99061c82f4d9aa467bb04643_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there an abnormality present in the image?,ছবিতে কি কোনো অসঙ্গতি আছে?,Yes,হ্যাঁ
+971,840d4deac25dee4822f845c6a44cf0420ab09e17_1-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+406,543a514f090eac1d52e883d9fcfb56aadd37b731_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কোন অস্বাভাবিকতা কি উপস্থিত আছে?,Yes,হ্যাঁ
+839,ef7d16d8c1fde1932788a51d3b20d93b93ba9adc_1-Figure1-1.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+1294,7fbeba9b3caf85a4edb5a4f82d3f01ccf3e9439e_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Are there any abnormalities present in the image?,ছবিতে কি কোনো অস্বাভাবিকতা আছে?,Yes,হ্যাঁ
+1178,dd3569a5d73cd3c89de8b84caa45874256082f38_2-Figure1-1.png,abnormality,অস্বাভাবিকতা,Is there any abnormality present in the image?,ছবিতে কোনো অস্বাভাবিকতা আছে কি?,Yes,হ্যাঁ
+406,543a514f090eac1d52e883d9fcfb56aadd37b731_2-Figure1-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কোন অবস্থাগুলি পরিলক্ষিত হয়?,"lobulated solid, enhancing mass; mass","লোবুলেটেড সলিড, এনহ্যান্সিং মাস; মাস"
+607,411aa4b6f7ce6435903eabcae3207986e3853a7f_2-Figure1-1.png,condition,রোগ,What conditions are observed in this image?,এই ছবিতে কী কী অবস্থা পরিলক্ষিত হচ্ছে?,"atlantoaxial dislocation, localized kyphosis, nonunion of type II dens fracture, dislocated and arthritic C1–2 joint","অ্যাটলান্টোঅক্সিয়াল ডিসলোকেশন, স্থানীয় কাইফোসিস, টাইপ  ডেন্স ফ্র্যাকচারের ননইউনিয়ন, ডিসলোকেট এবং আর্থ্রাইটিক সি১-২ জয়েন্ট"
+1054,ca83079e7b127fdd2fc0aa1482b3034bffcb6afe_2-Figure2-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কি কি অবস্থা দেখা যাচ্ছে?,"CVC, guide wire, non-‘J’ end of guide wire","সিভিসি, গাইড ওয়্যার, গাইড ওয়্যারের নন-‘জে’ প্রান্ত"
+906,351ba2adb76273ba99342b959fab32ef88bf08e4_2-Figure1-1.png,condition,রোগ,What conditions are observed in this image?,এই ছবিতে কী কী অবস্থা দেখা যাচ্ছে?,consolidations,কন্সোলিডেশনস ।
+631,cb11e9cad61feaec6d45c9083ee70941f6de0769_6-Figure3-1.png,condition,রোগ,What conditions are observed in this image?,এই ছবিতে কি কি অবস্থা দেখা যাচ্ছে?,features of spinocerebellar ataxia type 36,স্পাইনোসেরেবেলার অ্যাটাক্সিয়া টাইপ ৩৬-এর বৈশিষ্ট্য
+273,ca5c1c1462cee43e7bda496bec25522c989afab4_6-Figure4-1.png,condition,রোগ,What condition is observed in the image?,ছবিতে কি অবস্থা দেখা যাচ্ছে?,bronchoesophageal fistula,ব্রঙ্কোইসোফেজিয়াল ফিস্টুলা
+201,5bd33acd27d348e89d3ce4b00aab3960f2f93bb7_10-Figure3-1.png,condition,রোগ,What is the main condition observed in the image?,ছবিতে প্রধান কি অবস্থা দেখা যাচ্ছে?,Signet ring appearance,সিগনেট রিংয়ের মতো চেহারা
+576,4fed3e8e6a6c14128af19d4e882b51cfe8043b8d_3-Figure2-1.png,condition,রোগ,What conditions are observed?,কী অবস্থা পরিলক্ষিত হচ্ছে?,area of high signal,উচ্চ সংকেতের ক্ষেত্র
+1396,83c2183c5fd530bd1ff00ba51939680b4419840b_6-Figure3-1.png,condition,রোগ,What conditions are identified in this image?,এই ছবিতে কি কি অবস্থা সনাক্ত করা হয়েছে?,no finding,কিছু পাওয়া যায়নি।
+1269,54b0ff7c2700cb4753cd64b022395784a22f8ef0_9-Figure5-1.png,condition,রোগ,What conditions are observed in this image?,এই ছবিতে কী কী অবস্থা পরিলক্ষিত হয়?,"cysts, perilesional edema, meningeal enhancement","সিস্ট, পেরিলিশনাল ইডিমা, মেনিনজিয়াল এনহ্যান্সমেন্ট"
+1096,1f81d3a904d8859451b87af9d3fa18ccdc3998ec_4-Figure1-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কি কি অবস্থা দেখা যাচ্ছে?,"white matter changes, increased white matter signal intensity","শ্বেত পদার্থের পরিবর্তন, শ্বেত পদার্থের সংকেত তীব্রতা বৃদ্ধি"
+1099,49987176fd723bd2800f8a84e90b0e18469989ce_4-Figure2-1.png,condition,রোগ,What conditions are observed in this image?,ছবিতে কি কি অবস্থা দেখা যাচ্ছে?,"eccentric thrombotic material, mosaic perfusion","উৎকেন্দ্রিক থ্রম্বোটিক উপাদান, মোজাইক পারফিউশন।"
+502,55122d010c57c36126ec7f34dc1d6a3d3f312536_3-Figure3-1.png,condition,রোগ,What conditions are observed?,কী কী অবস্থা পরিলক্ষিত হয়েছে?,"resolution of high signal, prominence of periventricular hyperintensity","উচ্চ সংকেতের রেজোলিউশন, পেরাইভেন্ট্রিকুলার হাইপারইনটেনসিটি বৃদ্ধি"
+1117,866fcf29d8540ad22ed0f0868eae6da18f982967_1-Figure2-1.png,condition,রোগ,What conditions are described in the image?,ছবিতে কোন অবস্থাগুলো বর্ণিত আছে?,"soft tissue mass, bony destruction","সফট টিস্যু মাস, অস্থি ধ্বংস"
+534,7dfc7c177b042b64ce50f13d2d1e6a6a06fc9b0c_2-Figure2-1.png,condition,রোগ,What conditions are observed in the image?,এই ছবিতে কি অবস্থা পরিলক্ষিত হয়?,"partially defined ovoid opacity, compression and displacement of small bowel loops, interface between mass and inferior hepatic aspect","আংশিকভাবে সংজ্ঞায়িত ডিম্বাকৃতির অস্বচ্ছতা, ছোট অন্ত্রের লুপগুলির সংকোচন ও স্থানচ্যুতি, ভর এবং নিম্ন হেপাটিক দিকের মধ্যে ইন্টারফেস"
+112,ef1c4681e5a2e1e0dd6a078374aedc765bd1d4eb_4-Figure4-1.png,condition,রোগ,What condition is observed in this image?,এই ছবিতে কী অবস্থা দেখা যাচ্ছে?,re-expansion pulmonary edema,রি-এক্সপ্যানশন পালমোনারি ইডিমা
+48,3b89170fa99004b003ddac68405fa6796c2cf7b5_8-Figure6-1.png,condition,রোগ,What conditions are noted in this image?,ছবিতে কি কি অবস্থা উল্লেখ করা হয়েছে?,no finding,কোনো রোগ নির্ণয় করা যায়নি।
+212,01508771053f1c10f856d8adcec46dae5a5e521d_2-Figure2-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কী কী অবস্থা দেখা যাচ্ছে?,"multiple nodules (up to 5 mm), thickened bronchovascular bundles","একাধিক নডিউল ৫ মিমি পর্যন্ত, পুরু হয়ে যাওয়া ব্রঙ্কোভাস্কুলার বান্ডেল।"
+556,4752dd93d3f906fdcd26922620ac1602c4cb2884_1-Figure1-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কী কী অবস্থা দেখা যাচ্ছে?,"heterogeneous, predominantly echogenic, lesion; complex collection","হেটেরোজেনাস , প্রধানত ইকোজেনিক  ক্ষত; জটিল কালেকশন  "
+83,429d68b49525c2178d416b2835997a2020f749c4_2-Figure1-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কী কী অবস্থা দেখা যাচ্ছে?,bilateral pleural effusion,দ্বিপার্শ্বীয় প্লুরাল ইফিউশন   
+207,825830ff6c4aa5f3a29cb649a5b34a3fc9ea2dab_3-Figure1-1.png,condition,রোগ,What conditions are described in the image?,ছবিতে কি অবস্থা বর্ণনা করা হয়েছে?,no finding,কিছু পাওয়া যায়নি
+913,d5127170321b0e9c687cbcb7df3f8a01fdb2c166_2-Figure3-1.png,condition,রোগ,What condition is observed in the image?,ছবিতে কী অবস্থা দেখা যাচ্ছে?,hyperintensity,হাইপারইনটেনসিটি
+577,7fbf3ae99ad2ed988cd9dc1fe5890cb147ded637_10-Figure1-1.png,condition,রোগ,What conditions are described in the image caption?,ছবিটির ক্যাপশনে কোন অবস্থার কথা উল্লেখ আছে?,"GCA (Giant Cell Arteritis), IRF (Intrarenal Reflux)","জিসিএ জায়ান্ট সেল আর্টেরাইটিস, আইআরএফ ইনট্রারেনাল রিফ্লাক্স"
+1444,a9e599e83bbe61da844eef4f1f4cf05970d50d39_2-Figure1-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কি কি অবস্থা দেখা যাচ্ছে?,well-defined mass,সুস্পষ্ট ভর
+1003,cdd36a02be8a6c40849d1f170672329071d7b84f_2-Figure1-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কী কী অবস্থা দেখা যাচ্ছে?,"consolidation, internal jugular line, oesophageal stent with distal end at the level of the ribs, gas","কনসোলিডেশন, ইন্টারনাল জুগুলার লাইন, খাদ্যনালীর স্টেন্ট যার ডিস্টাল প্রান্ত পাঁজরের স্তরে, গ্যাস।"
+395,eaecaa5109ebb19d9c9b9079ce795c7692c82131_2-Figure1-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কী কী অবস্থা পরিলক্ষিত হচ্ছে?,"partial destruction, increased prevertebral soft tissue shadow, straightening of the cervical lordosis","আংশিক ধ্বংস, প্রিভার্টিব্রাল নরম টিস্যুর ছায়া বৃদ্ধি, সারভাইক্যাল লর্ডোসিসের সরলতা"
+736,4800843e55781caa57ed5c5d5561ea42c5ae7e3d_2-Figure1-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কি কি অবস্থা দেখা যাচ্ছে?,"large irregular mass, circumferential narrowing, compression, invasion","বৃহৎ অনিয়মিত ভর, পরিধিগত সংকীর্ণতা, কম্প্রেশন, ইনভেশন"
+717,1c099dc27da7c55a8c46dd2d1c5525434b55ee3c_1-Figure1-1.png,condition,রোগ,What conditions are noted in the image?,ছবিতে কী কী অবস্থা উল্লেখ করা হয়েছে?,"large apical bleb, stable fungal infection, new pneumothorax","বৃহৎ এপিক্যাল ব্লেব, স্থিতিশীল ফাঙ্গাল সংক্রমণ, নতুন নিউমোথোরাক্স"
+250,80418d0fc4bdb2244865c29d7fe5139f36709c26_2-Figure2-1.png,condition,রোগ,What condition is observed in the image?,ছবিতে কি অবস্থা পরিলক্ষিত হয়?,emphysematous gastritis,এম্ফাইসিমাটাস গ্যাস্ট্রাইটিস।
+752,f5358c62877df8551e88c746e46f5bd2bfd8f0a9_2-Figure2-1.png,condition,রোগ,What condition is present?,এখানে কি অবস্থা বিদ্যমান?,lesion with broad-based tentorial attachment,প্রশস্ত-ভিত্তিক টেন্টোরিয়াল অ্যাটাচমেন্টসহ ক্ষত
+788,aa6f750fa1bc02f9152f2c75a7406b58b53e9730_7-Figure2-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কি কি অবস্থা দেখা যাচ্ছে?,"multiple metastatic tumors, brain edema","মাল্টিপল মেটাস্ট্যাটিক টিউমার বহু স্থানান্তরিত টিউমার, মস্তিষ্কে শোথ"
+454,d8c1bcadde71521ffb2b202e7cfe492065c2d238_3-Figure2-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কি অবস্থা পরিলক্ষিত হয়?,"renal lymphangiectasia, massive pleural effusion","রেনাল লিম্ফ্যানজিয়েক্টেসিয়া  , বিশাল প্লুরাল ইফিউশন   ।"
+471,9b1479252286770ffa2feac06ecf4a8b27d83e74_4-Figure2-1.png,condition,রোগ,What condition is observed in the image?,ছবিতে কোন অবস্থা পরিলক্ষিত হচ্ছে?,possible epileptic foci,সম্ভাব্য এপিলেপটিক ফোকি
+257,8b1bfa1953a87b58f83ff062916c450d8b06cb2a_6-Figure4-1.png,condition,রোগ,What conditions are identified in the image?,ছবিতে কী কী অবস্থা সনাক্ত করা হয়েছে?,"thoracic epidural metastasis, tumor progression","থোরাসিক এপিডিউরাল মেটাস্ট্যাসিস, টিউমার "
+1091,8e2ca0899f7ffb8d16dd80af06022d7958b778f6_2-Figure1-1.png,condition,রোগ,What conditions are observed?,কী কী অবস্থা পরিলক্ষিত হচ্ছে?,"rapid growth of lesion, ground-glass opacity","ক্ষতের দ্রুত বৃদ্ধি, গ্রাউন্ড-গ্লাস অস্বচ্ছতা।"
+622,d602beb1af00ac65601db532cb7d5fb1593b9542_1-Figure2-1.png,condition,রোগ,What conditions are observed?,কী অবস্থা পরিলক্ষিত হয়েছে?,no finding,কিছু পাওয়া যায়নি
+802,20e00dca4cf3f2497718633b935d8b1680d712c3_2-Figure3-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কি অবস্থা পরিলক্ষিত হয়?,cystic lesion,সিস্টিক ক্ষত
+562,a4b37e1ca461f549b89b6f44549213fb4ee4987b_3-Figure1-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কী কী অবস্থা পরিলক্ষিত হচ্ছে?,"gastrointestinal amyloidosis presenting as enterocolitis, fluid levels, surgical clips post gall bladder removal","গ্যাস্ট্রোইনটেস্টাইনাল অ্যামাইলয়েডোসিস   এন্টারোকলাইটিস  হিসাবে উপস্থাপিত, ফ্লুইড লেভেল  , গলব্লাডার   অপসারণের পরে সার্জিক্যাল ক্লিপ  ।"
+769,20796ad2bc1b34b21bd832b74148d1087e1529d5_12-Figure20-1.png,condition,রোগ,What conditions are observed in the image?,ছবিতে কি কি অবস্থা পরিলক্ষিত হয়েছে?,prominent superior aortic recess,  সুপিরিয়র এওর্টিক রিসেস
+672,1e06a722f5eedcfe8ec19cb777aaa2048dd3a561_4-Figure1-1.png,condition,রোগ,What is the condition shown?,কী অবস্থা দেখানো হয়েছে?,no finding,কিছু পাওয়া যায়নি
+1020,9a14374af7b2b7b4fa5a1c1b7003f383a9fa2b21_3-Figure4-1.png,position,অবস্থান,What is the position of the pneumatocele enlargement?,নিউমাটোসিল বৃদ্ধির অবস্থান কী?,unspecified,অনির্দিষ্ট
+573,bd61b099bb2ba6f1c948f625d87096e896da18fc_2-Figure1-1.png,position,অবস্থান,Where are the multiple splenic infarcts located?,একাধিক স্প্লেনিক ইনফার্কশন কোথায় অবস্থিত?,spleen,প্লীহা
+989,7487a35abf0ff84719a183ccb0b224ece384b8ff_7-Figure2-1.png,position,অবস্থান,What is the position of the arteriolovenous malformations with disproportionate venous ectasia?,ডিসপ্রপোরশানেট ভেনাস একটাসিয়া সঙ্গে আর্টারিওলওভেনাস মালফরমেশনগুলির অবস্থান কোথায়?,paraspinal and right lower limb,প্যারাস্পাইনাল এবং ডান নিম্ন অঙ্গ
+1167,3ccee68ae4f709b4c16cab2c871d306c066ba661_5-Figure2-1.png,position,অবস্থান,What is the position of the local recurrence?,স্থানীয় পুনরাবৃত্তির অবস্থান কোথায়?,unspecified,অনির্দিষ্ট
+297,1058e98a33e6f2432230db54054e4ad8b4795278_3-Figure3-1.png,position,অবস্থান,Where is the pacing lead located?,পেসিং লিডটি কোথায় অবস্থিত?,"persistent left-sided superior vena cava, coronary sinus, right atrium","পারসিস্টেন্ট লেফট-সাইডেড সুপিরিয়র ভেনা কাভা, করোনারি সাইনাস, রাইট অ্যাট্রিয়াম"
+272,2e89b9f777080ee2b2ffc1474952313d45cfbf45_1-Figure2-1.png,position,অবস্থান,Where is the cavitary mass located?,ক্যাভিটারি ভরটি কোথায় অবস্থিত?,right lower lobe lung,ডান দিকের নিচের ফুসফুসের লোব
+170,82b31876eaf8a9c6f8a6fc12ea42a267c721c6f0_6-Figure3-1.png,position,অবস্থান,What is the location of the diffuse calcifications?,বিক্ষিপ্ত ক্যালসিফিকেশন (diffuse calcifications) এর অবস্থান কোথায়?,unspecified,অনির্দিষ্ট
+1249,190e21bb4469fe62fb6f1db6b24752c7fc87b8f7_3-Figure3-1.png,position,অবস্থান,Where is the expansile lesion located?,সম্প্রসারণশীল ক্ষতটি কোথায় অবস্থিত?,pancreatic head and body,অগ্ন্যাশয়ের মাথা এবং শরীর
+434,94d6ba21667977a3124984e10a010666cba1c7fe_3-Figure2-1.png,position,অবস্থান,What is the position of the scattered ground glass opacities?,বিক্ষিপ্ত গ্রাউন্ড গ্লাস অস্বচ্ছতার অবস্থান কোথায়?,unspecified,অনির্দিষ্ট।
+1426,c34be46560fa4ac3a7d133070111e8a69158f15e_5-Figure4-1.png,position,অবস্থান,What is the location of the high focal FDG uptake suggestive of metastases?,"উচ্চ ফোকাল এফডিজি আপটেক যা মেটাস্টেসিসের ইঙ্গিত দেয়, তার অবস্থান কোথায়?",para-aortic retroperitoneal lymph node,প্যারা-অ্যাওর্টিক রেট্রোপেরিটোনিয়াল লিম্ফ নোড
+1169,c989be5a613edf09af366c56f6d7bbc38b0034ae_2-Figure1-1.png,position,অবস্থান,Where is the evidence of old infection located?,পুরানো সংক্রমণের প্রমাণ কোথায় অবস্থিত?,left lower lobe,বাম দিকের নিচের লোব
+763,e0dd83baabaa0469b0aa94cc46b5df0bf29da148_3-Figure2-1.png,position,অবস্থান,What is the location of the minimal hemorrhagic transformation?,সামান্য হেমোরেজিক ট্রান্সফর্মেশন কোথায় অবস্থিত?,unspecified,অনির্দিষ্ট
+50,4d62c0f537a5cf29dfdb15e0087c3b2b448fcb2c_2-Figure1-1.png,position,অবস্থান,Where is the sacculated structure located?,থলিযুক্ত গঠনটি কোথায় অবস্থিত?,descending duodenum,নিম্নগামী ডিওডেনাম।
+1013,86eeabfbaf5430a9f292b043d420b1011c0c3eed_3-Figure1-1.png,position,অবস্থান,"What is the location of the enhanced oval, soft-tissue mass with its own blood supply?","নিজস্ব রক্ত সরবরাহ সহ উন্নত ডিম্বাকৃতির, নরম টিস্যু ভরের অবস্থান কোথায়?",jejunal mesentery at the level of the umbilicus,নাভির স্তরে জেজুনাল মেসেন্টারি।
+133,52a8a5228e99d30a334dab1162c4f0212c332274_2-Figure2-1.png,position,অবস্থান,What is the location of extensive white matter edema?,বিস্তৃত শ্বেত পদার্থের শোথ কোথায় অবস্থিত?,"both parietal lobes, both occipital lobes","উভয় প্যারাইটাল লোব, উভয় অক্সিপিটাল লোব"
+1469,0adafcc4b4be0584778f39eeb7fcfdc682c8c334_2-Figure1-1.png,position,অবস্থান,What is the location of the multiple lesions?,একাধিক ক্ষতের অবস্থান কোথায়?,brain,মস্তিষ্কে
+1433,78730bed8560a69b5fd85d420632e0b5dcd52b96_2-Figure1-1.png,position,অবস্থান,What is the location of the heterogeneously-enhancing ovoid-shaped mass?,হেটেরোজেনিয়াসলি-এনহ্যান্সিং ডিম্বাকৃতির ভরের অবস্থান কোথায়?,anterior mediastinum,অ্যান্টেরিয়র মেডিয়াস্টিনাম
+1110,ce503df28cac963e9fd4db690600b467e6298bf1_3-Figure1-1.png,position,অবস্থান,Where is the neuronal loss located?,নিউরোনাল ক্ষয় কোথায় অবস্থিত?,"ventral pons, cerebellar cortex","ভেন্ট্রাল পন্স, সেরিবেলার কর্টেক্স"
+592,8194b8dc9fee69acaaed1c7890c6b2b0f817cecf_2-Figure1-1.png,position,অবস্থান,Where is the calculus located?,ক্যালকুলাসটি কোথায় অবস্থিত?,anterio-lateral wall of the urinary bladder,মূত্রথলির এন্টেরিও-ল্যাটারাল দেয়ালে।
+325,2e5f0391d424c74a7eea4cad38c75b44a8f8bb39_3-Figure1-1.png,position,অবস্থান,What is the position of the pneumopericardium?,নিউমোপেরিকার্ডিয়ামের (হৃৎপিণ্ডের ঝিল্লিতে বাতাস) অবস্থান কি?,unspecified,অনির্দিষ্ট
+1097,568f6b2e0234f98708942d004f0d70da44acc726_1-Figure4-1.png,position,অবস্থান,Where is the enhancing soft tissue mass located?,কোথায় বৃদ্ধিপ্রাপ্ত নরম টিস্যু ভর অবস্থিত?,left hilum,বাম হিলামে।
+478,cb5c5c10af64aadd0e00928d82e0032a279102e7_2-Figure2-1.png,position,অবস্থান,Where is the mass lesion located?,মাস lesion (ভর lesion)-টি কোথায় অবস্থিত?,left lung field,বাম ফুসফুসের ক্ষেত্র
+1443,866fcf29d8540ad22ed0f0868eae6da18f982967_1-Figure1-1.png,position,অবস্থান,Where is the bony destruction located?,হাড়ের ধ্বংস কোথায় অবস্থিত?,greater wing of sphenoid,স্ফেনয়েড হাড়ের বৃহত্তর শাখা
+192,dd5dab33605edee5de9b69f2e17cd9c18218d1e0_2-Figure1-1.png,position,অবস্থান,What is the position of the mosaic attenuation?,মোজাইক অ্যাটেন্যুয়েশনের অবস্থান কোথায়?,unspecified,অনির্দিষ্ট
+236,ce589b3bb08eff4dc30b0c00e92299814354684d_9-Figure1-1.png,position,অবস্থান,What is the anatomical location of marked midbrain atrophy?,উল্লেখযোগ্য মধ্য মস্তিষ্কের অ্যাট্রফির শারীরবৃত্তীয় অবস্থান কি?,midbrain,মধ্য মস্তিষ্ক।
+1200,9623831a242c00dbc272fd3c159c71c7a71bdd8b_3-Figure3-1.png,position,অবস্থান,Where is the pulmonary manifestation located?,পালমোনারি ম্যানিফেস্টেশন কোথায় অবস্থিত?,lungs,ফুসফুস
+1264,915c2a47bc4bf4bbbedd21640d5f69b6cf77f2ac_7-Figure2-1.png,position,অবস্থান,What is the location of severely atrophied?,মারাত্মকভাবে ক্ষয়প্রাপ্ত এর অবস্থান কোথায়?,"cerebellar vermis, cerebellar cortex","সেরেবেলার ভার্মিস, সেরেবেলার কর্টেক্স"
+1007,88dbfa7eeb50c019a03d76ff872e4b7a6c46ec56_2-Figure2-1.png,position,অবস্থান,Where are the fractures located?,ফ্র্যাকচারগুলো কোথায় অবস্থিত?,parietal bone,প্যারাইটাল হাড়ে।
+829,fa227710c57b1e31fa3538de0331e67620dd162d_4-Figure3-1.png,position,অবস্থান,What is the location of the mild spinal cord compression?,মৃদু স্পাইনাল কর্ড কম্প্রেশন বা মেরুরজ্জু সংকোচনের অবস্থান কোথায়?,C3-C4,সি৩-সি৪
+1072,6533de48d4faf2290a7f56d56e8f0636a38b1346_8-Figure2-1.png,position,অবস্থান,Where are the extensive confluent FLAIR signal abnormalities with increased signal intensity located?,কোথায় বিস্তৃত কনফ্লুয়েন্ট এফএলএআইআর (FLAIR) সংকেত অস্বাভাবিকতা এবং বর্ধিত সংকেত তীব্রতা অবস্থিত?,"bilateral internal capsule, basal ganglia, thalami, hypothalamus, cerebral peduncles","দ্বিপার্শ্বীয় অভ্যন্তরীণ ক্যাপসুল, বেসাল গ্যাংলিয়া, থ্যালামি, হাইপোথ্যালামাস, সেরিব্রাল পেডাঙ্কল।"
+214,3c02beb8b4a0bfe7ddf9aaccf5395157e4377968_4-Figure4-1.png,position,অবস্থান,Where is the increased extravascular lung density located?,অতিরিক্ত রক্তনালী বহির্ভূত ফুসফুসের ঘনত্ব বৃদ্ধি কোথায় অবস্থিত?,periphery of the lung,ফুসফুসের পরিধিতে
+1386,d85f13c1c0745f6c1fa8eb34dcfe5c1412c6add6_2-Figure1-1.png,position,অবস্থান,What is the location of the bleeding?,রক্তপাত কোথায় হয়েছে?,unspecified,অনির্দিষ্ট
+423,2816cbd460e8036215d7cce858d1c2acad0b34a1_3-Figure2-1.png,position,অবস্থান,What is the position of the multiple borderline size lymph nodes?,একাধিক বর্ডারলাইন আকারের লিম্ফ নোডের অবস্থান কী?,"paraaortic, aortocaval, retrocaval, mesentery","প্যারা-অ্যাওর্টিক, অ্যাওর্টোকেভাল, রেট্রোকেভাল, মেসেনটারি।"
+658,13812713acb650718ecbe030eb5ee3f25baa0f7c_2-Figure3-1.png,position,অবস্থান,What is the location of massive subarachnoid hemorrhage with intraventricular extension?,"ব্যাপক সাবঅ্যারাকনয়েড হেমোরেজ (subarachnoid hemorrhage) যার ইন্ট্রাভেন্ট্রিকুলার (intraventricular) বিস্তার রয়েছে, তার অবস্থান কোথায়?",brain,মস্তিষ্ক।
+1286,02f9a8265b9ac8aa192352f4f6aa0050505b99e6_2-Figure1-1.png,position,অবস্থান,Where is the intrahepatic bile duct dilatation located?,ইন্ট্রাহেপ্যাটিক বাইল ডাক্ট প্রসারণটি কোথায় অবস্থিত?,intrahepatic bile ducts,ইন্ট্রাহেপ্যাটিক বাইল ডাক্টে
+1283,8c68457f3616e6a8cd84f799d81445af99a8963c_2-Figure2-1.png,position,অবস্থান,Where is the large heterogeneously enhancing mass with central necrosis located?,"বৃহৎ হেটেরোজেনিয়াসলি এনহ্যান্সিং মাস যা সেন্ট্রাল নেক্রোসিস যুক্ত, কোথায় অবস্থিত?",right adrenal gland,ডান অ্যাড্রিনাল গ্রন্থি
+440,968809599390b52a06c010190f61a9c07d0d44bc_1-Figure2-1.png,position,অবস্থান,Where is the ring enhancing intramedullary lesion (tuberculoma) located?,রিং এনহ্যান্সিং ইন্ট্রামেডুলারি ক্ষত (টিউবারকুলোমা) কোথায় অবস্থিত?,dorsal spine,ডোরসাল স্পাইন
+1059,006113e942109703b3e42fcceb710eaffbd3eb26_2-Figure1-1.png,position,অবস্থান,What is the position of the periventricular hyperintense signals?,পেরাইভেন্ট্রিকুলার হাইপারইনটেনস সংকেত এর অবস্থান কি?,periventricular,পেরাইভেন্ট্রিকুলার
+1206,a4118a5b2194dee6db77ccf35204df3b5f7a5477_2-Figure1-1.png,position,অবস্থান,Where is the nodule located?,নোड्यूलটি কোথায় অবস্থিত?,middle of the right lung,ডান ফুসফুসের মাঝখানে
+90,7a937559faaedc55dc9f4e2a2f01bacaf534997c_3-Figure3-1.png,position,অবস্থান,What is the position of the flattening of the left atrium?,বাম অলিন্দের চ্যাপ্টা হওয়ার অবস্থান কী?,left atrium,বাম অলিন্দ
