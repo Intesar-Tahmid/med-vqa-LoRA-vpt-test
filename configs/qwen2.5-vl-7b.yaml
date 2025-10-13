@@ -18,7 +18,7 @@ use_dora: false
 dataset: chest_x-ray_train
 template: qwen2_vl
 cutoff_len: 1024
-max_samples: 10
+max_samples: 100000
 overwrite_cache: true
 preprocessing_num_workers: 16
 flash_attn: auto
