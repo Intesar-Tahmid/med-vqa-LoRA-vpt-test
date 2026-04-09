@@ -1,3 +1,9 @@
+# [Evaluating Large Vision Language Models on Bangla Medical VQA](https://ahmedrafid023.github.io/med-vqa-page/)
+
+### **Accepted at ACL 2026 (A* Conference)**
+**Project Page:** [ahmedrafid023.github.io/med-vqa-page/](https://ahmedrafid023.github.io/med-vqa-page/) | **Dataset:** [BanglaMedVQA (Hugging Face)](https://huggingface.co/datasets/iiCEMAN/BanglaMedVQA)
+
+---
 # Medical VQA LoRA Training
 
 Fine-tuning `google/medgemma-4b-it` vision-language model using FP32 LoRA with LLaMA Factory for Bengali medical question answering.
