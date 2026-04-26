@@ -1,0 +1,29 @@
+# Ablation A1 — Shared VPT, no router, no LoRA
+# Purpose: isolate the effect of VPT tokens alone (no routing, no LoRA)
+# Pool: shared (equal blend, alpha=0.5 — equivalent to single shared pool)
+# Router: disabled (alpha=None → falls back to 0.5 blend)
+# LoRA: disabled
+#
+# Run:
+#   python train_vpt.py \
+#     --output_dir output/A1 \
+#     --no-add_lora \
+#     --num_gen_tokens 20 \
+#     --num_spec_tokens 20 \
+#     --model_name Qwen/Qwen2.5-VL-7B-Instruct
+
+model_name:      Qwen/Qwen2.5-VL-7B-Instruct
+output_dir:      output/A1
+num_epochs:      3
+batch_size:      4
+num_gen_tokens:  20
+num_spec_tokens: 20
+add_lora:        false
+use_oracle_router: false
+disable_router:  true     # A1: equal blend (alpha=0.5), no MLP instantiated
+lr_vpt:          2.0e-4
+lr_router:       1.0e-3
+lr_lora:         1.0e-4
+lambda_router:   0.01
+mu_cat:          0.1
+gradient_checkpointing: true

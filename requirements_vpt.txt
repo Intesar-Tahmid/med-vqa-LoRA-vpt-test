@@ -1,0 +1,10 @@
+# VPT experiment additional dependencies
+# Install alongside requirements.txt:
+#   pip install -r requirements.txt -r requirements_vpt.txt
+
+# Router: multilingual sentence embeddings (handles Bangla)
+sentence-transformers>=2.7.0
+
+# Evaluation
+bert-score>=0.3.13
+openai>=1.0.0          # for LAVE scoring via GPT-4.1-mini (optional)

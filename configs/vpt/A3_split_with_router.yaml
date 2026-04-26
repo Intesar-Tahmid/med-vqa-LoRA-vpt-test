@@ -1,0 +1,26 @@
+# Ablation A3 — Split pools + router, no LoRA  (core VPT contribution)
+# Purpose: test hierarchical split pools with routing, but WITHOUT LoRA
+# Pool: split Gen (16 tokens) / Spec (24 tokens) with learned router
+# Router: enabled
+# LoRA: disabled
+#
+# Run:
+#   python train_vpt.py \
+#     --output_dir output/A3 \
+#     --no-add_lora \
+#     --model_name Qwen/Qwen2.5-VL-7B-Instruct
+
+model_name:      Qwen/Qwen2.5-VL-7B-Instruct
+output_dir:      output/A3
+num_epochs:      3
+batch_size:      4
+num_gen_tokens:  16
+num_spec_tokens: 24
+add_lora:        false
+use_oracle_router: false
+lr_vpt:          2.0e-4
+lr_router:       1.0e-3
+lr_lora:         1.0e-4
+lambda_router:   0.01
+mu_cat:          0.1
+gradient_checkpointing: true

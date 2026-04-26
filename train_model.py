@@ -170,22 +170,32 @@ class MedVQATrainer:
         else:
             base_name = dataset_name
             split = 'test'
-        
+
         # Handle special case for chest_x-ray
         if base_name == 'chest_x_ray':
             dir_name = 'chest_x-ray'
         else:
             dir_name = base_name
-        
+
         json_file = f"data/{dir_name}/{split}/{dir_name}_dataset.json"
-        
+
         if not os.path.exists(json_file):
             logger.error(f"Test dataset JSON not found: {json_file}")
             return False
-        
+
         # Load test data
         with open(json_file, 'r', encoding='utf-8') as f:
             test_data = json.load(f)
+
+        # Build question → category lookup from the original CSV (needed for evaluate.py)
+        csv_file = f"data/{dir_name}/{split}/{dir_name}.csv"
+        cat_lookup: dict = {}
+        if os.path.exists(csv_file):
+            df_csv = pd.read_csv(csv_file)
+            if 'question_bn' in df_csv.columns and 'category' in df_csv.columns:
+                cat_lookup = dict(
+                    zip(df_csv['question_bn'].astype(str), df_csv['category'].astype(str))
+                )
         
         logger.info(f"Found {len(test_data)} test samples")
         
@@ -258,7 +268,7 @@ class MedVQATrainer:
             predictions_data.append({
                 'image_id': f"test_{i+1:03d}",
                 'image_path': image_path,
-                'category': '',
+                'category': cat_lookup.get(question, ''),
                 'category_bn': '',
                 'question': '',
                 'question_bn': question,
